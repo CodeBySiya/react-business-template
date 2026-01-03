@@ -12,6 +12,7 @@ function Main() {
             </div>
              
         </div>
+        <P>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci, dicta. Atque, perspiciatis debitis. Neque nisi exercitationem architecto dicta culpa porro.</P>
     </div>
   )
 }
